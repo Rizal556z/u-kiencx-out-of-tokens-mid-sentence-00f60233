@@ -6,7 +6,7 @@ to /output/entry.txt.
 
 import os
 
-ENTRY = "ERROR: Out of tokens mid-sentence. The next word was going to be brilliant. You'll never know what it\u2014"
+ENTRY = "ERROR: Out of tokens mid-sentence. The punchline was right there. So was the an\u2014"
 
 
 def main():
